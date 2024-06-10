@@ -1,8 +1,4 @@
-# React + Vite
+React로 구현한 Simple Counter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![screenrec_2024-06-10 13-58-27](https://github.com/hijimin/Algorithm/assets/147786615/abb308b3-718f-405d-afee-6761633b90f1)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
